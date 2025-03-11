@@ -1,4 +1,24 @@
-## Hi there 👋
+# 🚀 Welcome to the AlgoRookie's GitHub! 👋
+
+### 😄 About Me
+My name is Tomiwa Onigbanjo, but you can call me AlgoRookie!
+- 📚 I'm a 19-year-old Cost Engineer Degree Apprentice at Bentley Motors
+- 👨🏾‍🎓 Currently @ Manchester Metropolitan studying Digital and Technology Solutions
+- 🤖 On a journey to build impactful AI tools while documenting my progress
+- ⚽️ Supporter of Manchester United, if only I could write a program to make us good again 🥲
+- 🏎️ Car lover, programming will one day buy me a GLE63 😉
+
+---
+
+### 💡 What I'm Working On (Planning to Work On)
+- 🐍 CS50 Intro to Programming with Python - Completion Goal: April 2025
+- 📊 Data Analysis and Automation Tools - To aid Automative Cost Engineering
+- 🛜 Building a Personal Brand - Sharing my journey and insights on GitHub, LinkedIn and other platforms
+
+---
+
+### 🤝 Let's Connect!
+I'm open to learning where I can from more senior developers or even alongside more novice programmers like myself. Keep an eye out on my repositories to stay up to date with what I'm working on!
 
 <!--
 **AlgoRookie/AlgoRookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
