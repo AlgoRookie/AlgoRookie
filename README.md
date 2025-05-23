@@ -1,7 +1,7 @@
 # 🚀 Welcome to the AlgoRookie's GitHub! 👋
 
 ### 😄 About Me
-My name is Tomiwa Onigbanjo, but you can call me AlgoRookie!
+My name is Tomiwa Onigbanjo, but you can call me Scopium!
 - 📚 I'm a 19-year-old Cost Engineer Degree Apprentice at Bentley Motors
 - 👨🏾‍🎓 Currently @ Manchester Metropolitan studying Digital and Technology Solutions
 - 🤖 On a journey to build impactful AI tools while documenting my progress
