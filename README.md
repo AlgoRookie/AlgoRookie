@@ -1,4 +1,4 @@
-# 🚀 Welcome to the AlgoRookie's GitHub! 👋
+# 🚀 Welcome to the Scopium's GitHub! 👋
 
 ### 😄 About Me
 My name is Tomiwa Onigbanjo, but you can call me Scopium!
