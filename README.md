@@ -1,7 +1,7 @@
-# 🚀 Welcome to the Scopium's GitHub! 👋
+# 🚀 Welcome to the My GitHub! 👋
 
 ### 😄 About Me
-My name is Tomiwa Onigbanjo, but you can call me Scopium!
+My name is Tomiwa!
 - 📚 I'm a 19-year-old Cost Engineer Degree Apprentice at Bentley Motors
 - 👨🏾‍🎓 Currently @ Manchester Metropolitan studying Digital and Technology Solutions
 - 🤖 On a journey to build impactful AI tools while documenting my progress
