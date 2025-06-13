@@ -11,7 +11,7 @@ My name is Tomiwa!
 ---
 
 ### 💡 What I'm Working On (Planning to Work On)
-- 🐍 CS50 Intro to Programming with Python - Completion Goal: April 2025
+- 🐍 CS50 Intro to Programming with Python - Completion Goal: End Of June 2025
 - 📊 Data Analysis and Automation Tools - To aid Automative Cost Engineering
 - 🛜 Building a Personal Brand - Sharing my journey and insights on GitHub, LinkedIn and other platforms
 
